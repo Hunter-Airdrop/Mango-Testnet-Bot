@@ -68,11 +68,12 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 
 Mango Testnet 
 
-➡️ Register : [HERE](https://task.testnet.mangonetwork.io/?invite=tVB90U)
+➡️ Register : [HERE](https://task.testnet.mangonetwork.io/?invite=veddtN)
+- This is completely free software, you don't need to buy a key, but the condition is that you must use our invitation code.
 - Download Mango Wallet (https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd) (Extension)
 - Backup Phrase
 - Claim Faucet on your wallet extension
-- Go To [Web](https://task.testnet.mangonetwork.io/?invite=tVB90U) 
+- Go To [Web](https://task.testnet.mangonetwork.io/?invite=veddtN) 
 - Complete Bind Social Media Accounts and JOIN NOW
 - Go to [Event Page](https://task.testnet.mangonetwork.io/events)
 - Complete Task on the Task List ( Swap , Bridge )
@@ -191,6 +192,5 @@ Feel free to fork and contribute adding more feature thanks.
 want to support me for creating another bot ?
 **star** my repo or buy me a coffee on
 
-EVM : `0x1f0ea6e0b3590e1ab6c12ea0a24d3d0d9bf7707d`
 
-SOLANA : `3tE3Hs7P2wuRyVxyMD7JSf8JTAmEekdNsQWqAnayE1CN`
+SOLANA : `J2iaEWWkEdAYQNwCiF1sgXSWiXbDEytRowvvSNAeFCrR`
