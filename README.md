@@ -70,6 +70,7 @@ Mango Testnet
 
 ➡️ Register : [HERE](https://task.testnet.mangonetwork.io/?invite=veddtN)
 - This is completely free software, you don't need to buy a key, but the condition is that you must use our invitation code.
+- Link : (https://task.testnet.mangonetwork.io/?invite=veddtN)
 - Download Mango Wallet (https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd) (Extension)
 - Backup Phrase
 - Claim Faucet on your wallet extension
