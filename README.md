@@ -81,8 +81,9 @@ Mango Testnet
 - Login Daily
 - Done
 
-Important Note:
-You need to manually perform all the above steps on the first installation. The bot will work from the next run.
+## Important Note:
+- You need to manually perform all the above steps on the first installation. The bot will work from the next run.
+##
 
 Bot ? Maybe
 
